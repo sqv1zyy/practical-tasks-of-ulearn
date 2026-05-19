@@ -1,0 +1,9 @@
+C:\c# project\TableParser\obj\Debug\net8.0\TableParser.csproj.AssemblyReference.cache
+C:\c# project\TableParser\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\c# project\TableParser\obj\Debug\net8.0\Avalonia\resources
+C:\c# project\TableParser\obj\Debug\net8.0\TableParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# project\TableParser\obj\Debug\net8.0\TableParser.gentestingplatformentrypointinputcache.cache
+C:\c# project\TableParser\obj\Debug\net8.0\TableParser.genautoregisteredextensionsinputcache.cache
+C:\c# project\TableParser\obj\Debug\net8.0\TableParser.AssemblyInfoInputs.cache
+C:\c# project\TableParser\obj\Debug\net8.0\TableParser.AssemblyInfo.cs
+C:\c# project\TableParser\obj\Debug\net8.0\TableParser.csproj.CoreCompileInputs.cache

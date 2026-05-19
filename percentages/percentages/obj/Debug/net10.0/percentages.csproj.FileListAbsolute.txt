@@ -1,0 +1,14 @@
+C:\c# project\percentages\percentages\bin\Debug\net10.0\percentages.exe
+C:\c# project\percentages\percentages\bin\Debug\net10.0\percentages.deps.json
+C:\c# project\percentages\percentages\bin\Debug\net10.0\percentages.runtimeconfig.json
+C:\c# project\percentages\percentages\bin\Debug\net10.0\percentages.dll
+C:\c# project\percentages\percentages\bin\Debug\net10.0\percentages.pdb
+C:\c# project\percentages\percentages\obj\Debug\net10.0\percentages.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# project\percentages\percentages\obj\Debug\net10.0\percentages.AssemblyInfoInputs.cache
+C:\c# project\percentages\percentages\obj\Debug\net10.0\percentages.AssemblyInfo.cs
+C:\c# project\percentages\percentages\obj\Debug\net10.0\percentages.csproj.CoreCompileInputs.cache
+C:\c# project\percentages\percentages\obj\Debug\net10.0\percentages.dll
+C:\c# project\percentages\percentages\obj\Debug\net10.0\refint\percentages.dll
+C:\c# project\percentages\percentages\obj\Debug\net10.0\percentages.pdb
+C:\c# project\percentages\percentages\obj\Debug\net10.0\percentages.genruntimeconfig.cache
+C:\c# project\percentages\percentages\obj\Debug\net10.0\ref\percentages.dll

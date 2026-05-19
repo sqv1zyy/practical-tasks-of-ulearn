@@ -1,0 +1,7 @@
+C:\c# project\angrybirds\obj\Debug\net8.0\AngryBirds.csproj.AssemblyReference.cache
+C:\c# project\angrybirds\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\c# project\angrybirds\obj\Debug\net8.0\Avalonia\resources
+C:\c# project\angrybirds\obj\Debug\net8.0\AngryBirds.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# project\angrybirds\obj\Debug\net8.0\AngryBirds.AssemblyInfoInputs.cache
+C:\c# project\angrybirds\obj\Debug\net8.0\AngryBirds.AssemblyInfo.cs
+C:\c# project\angrybirds\obj\Debug\net8.0\AngryBirds.csproj.CoreCompileInputs.cache
