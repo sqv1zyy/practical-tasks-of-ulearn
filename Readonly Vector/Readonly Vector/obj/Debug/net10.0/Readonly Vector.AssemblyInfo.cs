@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Readonly Vector")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5e985513bf1c5fc834a6e6c68958ce74856a9f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Readonly Vector")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Readonly Vector")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
