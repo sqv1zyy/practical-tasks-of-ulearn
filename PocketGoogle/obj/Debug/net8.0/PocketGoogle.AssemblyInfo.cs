@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PocketGoogle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5b24b6e460b204176245e4083af845265bc1af1")]
 [assembly: System.Reflection.AssemblyProductAttribute("PocketGoogle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PocketGoogle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
